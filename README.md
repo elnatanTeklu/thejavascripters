@@ -2,8 +2,6 @@
 
  CPSC 5135 Programming Languages - Team Project
 
-### completedPrograms - Has the completed programs
-
 # Installation
 
 ### download visual studio code 
@@ -22,4 +20,6 @@
 # Getting Started
 
 
+
+### completedPrograms - Has the completed programs
 ### examplePrograms - are completed meant for you to complete them 
