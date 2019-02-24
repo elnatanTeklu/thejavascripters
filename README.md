@@ -19,6 +19,7 @@
 
 # Getting Started
 
+![](.gif)
 
 
 ### completedPrograms - Has the completed programs
