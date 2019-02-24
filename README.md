@@ -4,7 +4,7 @@
 
 ### completedPrograms - Has the completed programs
 
-# Instalation 
+# Installation
 
 ### download visual studio code 
 * [Visual Studio code](https://code.visualstudio.com/)
@@ -19,7 +19,7 @@
 
 `cd thejavascripters`
 
-# Gettig Started
+# Getting Started
 
 
 ### examplePrograms - are completed meant for you to complete them 
