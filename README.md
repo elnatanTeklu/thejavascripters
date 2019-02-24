@@ -1,7 +1,8 @@
 # thejavascripters
 
 
-## completedPrograms folder has the completed programs
+## completedPrograms 
+### Has the completed programs
 
-
-## examplePrograms folder are completed meant for you to complete them 
+## examplePrograms 
+### are completed meant for you to complete them 
