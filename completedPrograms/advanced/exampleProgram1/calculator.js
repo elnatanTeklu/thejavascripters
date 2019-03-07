@@ -1,6 +1,6 @@
 console.log("hello world");
 alert("hello world");
-const "test";
+const test = "test";
 
 if (3 === 3) {
     console.log(((("nested loop"))));
