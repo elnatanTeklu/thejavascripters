@@ -4,51 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<link rel="stylesheet" href="style.css">
-	    <!-- skeleton cdn  -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
-    <title>TicTacToe</title>
+    <title>Drag and Drop</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<h1 class="header">Tennis ball Drag and Drop</h1>
 
-
-		<h1 class="headerPostion">Tic Tac Toe </h1>
-
-<div class="container">
-
-<div class="content">
-
-
-    <table>
-		<tr>
-			<td class="cell" id="0"></td>
-			<td class="cell" id="1"></td>
-			<td class="cell" id="2"></td>
-		</tr>
-		<tr>
-			<td class="cell" id="3"></td>
-			<td class="cell" id="4"></td>
-			<td class="cell" id="5"></td>
-		</tr>
-		<tr>
-			<td class="cell" id="6"></td>
-			<td class="cell" id="7"></td>
-			<td class="cell" id="8"></td>
-		</tr>
-	</table>
-	<div class="gameOver">
-		<div class="gameOverMessage"></div>
-	</div>
-
-</div>
-
-</div>
-
-
-<!-- the start js function will run when the button is clicked -->
-<button class="buttonPostion" onClick="start()">New Game</button>
-
-  <script src="ticTacToe.js"></script>
+        <div class="empty">
+                <div class="ball" draggable="true"> </div>
+              </div>
+            
+              <div class="empty postion">
+                  <span class="text">Drag Here</span>
+              </div>
+         
+              <script src="dragndrop.js"></script>
+           
 </body>
 </html>
