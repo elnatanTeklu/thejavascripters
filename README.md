@@ -25,11 +25,16 @@
 ### completedPrograms - Has nine completed programs
 
 ## Basic
-!helloworld
-
-
+* helloworld
+* console
+* 
 
 ## Intermediate
+* New Years Timer
+* PizzaHut
+* Animations
 
 ## Advanced 
- 
+* Vue App
+* Mile Convertor
+* Drag and Drop Tennis Ball 
