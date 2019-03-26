@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- 
+        
+        This project is using vue.js a javaScript frontedn library 
+        and Skeleton.css a lightweight stylesheet 
+
+        both Vue.js and Skeleton are using cdn's 
+    
+    
+    
+    -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <!-- skeleton cdn  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+    <h1 class="header">Vue.js Text Input App</h1>
+
+    <div id="app">
+
+
+            <div class="container">
+                <div class="textBox">
+                        <h1> {{msg}} </h1>
+                        <input type="text"  class="u-half-width center" @input="changeMsg" placeholder="Say something">
+                </div>
+            </div>
+          
+            
+        
+    </div>
+
+
+    <!-- vue cdn -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!-- vue applicatin -->
+    <script src="vueApp.js"></script>
+</body>
+
+</html>

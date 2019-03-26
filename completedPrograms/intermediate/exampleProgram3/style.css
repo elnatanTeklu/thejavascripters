@@ -1,0 +1,18 @@
+#fastFoward,
+#arrow,
+#people,
+#toggle {
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+
+}
+
+ .headerText{
+     text-align: center;
+     font-size: 80px;
+ }

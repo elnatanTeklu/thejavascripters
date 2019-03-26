@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+.timerHeading{
+    display: flex;
+    justify-content: center;
+    font-size: 4em;
+}
+
+.container{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    display: block;
+}
+
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+  }
