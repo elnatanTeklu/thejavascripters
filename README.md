@@ -19,7 +19,7 @@
 
 # Getting Started
 
-![](.gif)
+![Alt Text](https://media.giphy.com/media/1itCXLeizodedgetfD/giphy.gif)
 
 
 ### completedPrograms - Has nine completed programs
