@@ -28,7 +28,8 @@
 ![Alt Text](https://media.giphy.com/media/1itCXLeizodedgetfD/giphy.gif)
 * ### console
 ![Alt Text](https://media.giphy.com/media/ukCyqyPjC33xAUd2dC/giphy.gif)
-* 
+* ### basic Math
+![Alt Text](https://media.giphy.com/media/4T8Z9dYXp1eaIlPM4c/giphy.gif)
 
 ## Intermediate
 * ### New Years Timer
